@@ -1,0 +1,27 @@
+# Fichiers generes par Unreal
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Fichiers generes par les IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.code-workspace
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.clangd
+compile_commands.json
+
+# Systeme
+.DS_Store
+Thumbs.db
